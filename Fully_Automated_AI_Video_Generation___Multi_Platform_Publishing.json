@@ -286,7 +286,7 @@
       "credentials": {
         "openAiApi": {
           "id": "zGh8bFd2PWq8LI0d",
-          "name": "PaloAlto Ai Research Lab"
+          "name": "P-----b"
         }
       }
     },
@@ -403,7 +403,7 @@
       "credentials": {
         "openAiApi": {
           "id": "zGh8bFd2PWq8LI0d",
-          "name": "PaloAlto Ai Research Lab"
+          "name": "P-------b"
         }
       }
     },
@@ -448,10 +448,10 @@
         },
         "folderId": {
           "__rl": true,
-          "value": "16uYmberwMc6JyNbNOBR6pe0LTHP6T_Dm",
+          "value": "1",
           "mode": "list",
-          "cachedResultName": "Карты Таро",
-          "cachedResultUrl": "https://drive.google.com/drive/folders/16uYmberwMc6JyNbNOBR6pe0LTHP6T_Dm"
+          "cachedResultName": "К-----о",
+          "cachedResultUrl": "https://drive.google.com/drive/your drive"
         },
         "options": {}
       },
@@ -465,8 +465,8 @@
       "typeVersion": 3,
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "pq13hELytaD8ODhz",
-          "name": "Google Drive Korvin"
+          "id": "phz",
+          "name": "Google Drive"
         }
       }
     },
@@ -497,8 +497,8 @@
       "typeVersion": 3,
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "pq13hELytaD8ODhz",
-          "name": "Google Drive Korvin"
+          "id": "p*****z",
+          "name": "Google Drive"
         }
       }
     },
@@ -573,17 +573,17 @@
       "parameters": {
         "documentId": {
           "__rl": true,
-          "value": "19l1Dq0-dUZlLlCmsDmKHk7L6lDcLdJ9r4IjmFt0uE-Q",
+          "value": "1************Q",
           "mode": "list",
-          "cachedResultName": "Astrology_tarot_test",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/19l1Dq0-dUZlLlCmsDmKHk7L6lDcLdJ9r4IjmFt0uE-Q/edit?usp=drivesdk"
+          "cachedResultName": "As-*****t",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/your drive"
         },
         "sheetName": {
           "__rl": true,
           "value": 1060902096,
           "mode": "list",
           "cachedResultName": "Лист2",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/19l1Dq0-dUZlLlCmsDmKHk7L6lDcLdJ9r4IjmFt0uE-Q/edit#gid=1060902096"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/your drive"
         },
         "options": {}
       },
@@ -599,7 +599,7 @@
       "credentials": {
         "googleSheetsOAuth2Api": {
           "id": "xlOpcR6KOaCL0ND0",
-          "name": "Korvin googlesheets"
+          "name": "googlesheets"
         }
       }
     },
@@ -716,10 +716,10 @@
         },
         "folderId": {
           "__rl": true,
-          "value": "16uYmberwMc6JyNbNOBR6pe0LTHP6T_Dm",
+          "value": "16u*****Dm",
           "mode": "list",
-          "cachedResultName": "Карты Таро",
-          "cachedResultUrl": "https://drive.google.com/drive/folders/16uYmberwMc6JyNbNOBR6pe0LTHP6T_Dm"
+          "cachedResultName": "*****о",
+          "cachedResultUrl": "https://drive.google.com/drive/folders/your folder"
         },
         "options": {}
       },
@@ -733,8 +733,8 @@
       "typeVersion": 3,
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "pq13hELytaD8ODhz",
-          "name": "Google Drive Korvin"
+          "id": "pq*****z",
+          "name": "Google Drive"
         }
       }
     },
@@ -785,8 +785,8 @@
       "typeVersion": 3,
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "pq13hELytaD8ODhz",
-          "name": "Google Drive Korvin"
+          "id": "p*******Dhz",
+          "name": "Google Drive"
         }
       }
     },
@@ -796,15 +796,15 @@
         "documentId": {
           "__rl": true,
           "mode": "list",
-          "value": "1cjd8p_yx-M-3gWLEd5TargtoB35cW-3y66AOTNMQrrM",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1cjd8p_yx-M-3gWLEd5TargtoB35cW-3y66AOTNMQrrM/edit?usp=drivesdk",
+          "value": "1cj******rM",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/your drive",
           "cachedResultName": "Sheet Template"
         },
         "sheetName": {
           "__rl": true,
           "mode": "list",
           "value": "gid=0",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1cjd8p_yx-M-3gWLEd5TargtoB35cW-3y66AOTNMQrrM/edit#gid=0",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/your drive",
           "cachedResultName": "Sheet1"
         },
         "columns": {
@@ -1151,8 +1151,8 @@
       "typeVersion": 4.5,
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "xlOpcR6KOaCL0ND0",
-          "name": "Korvin googlesheets"
+          "id": "xl*****0",
+          "name": "googlesheets"
         }
       }
     },
@@ -1164,25 +1164,25 @@
               "id": "35659353-d8e2-4677-876b-401b549605a0",
               "name": "PiAPI Key",
               "type": "string",
-              "value": "8f760f84e96577b92498fbf6163a870dcbd59a0eb149277af25e88fefc0dd70b"
+              "value": ""
             },
             {
               "id": "c4927dd6-c597-48fe-b7c1-bbffcf5ff02f",
               "name": "ElevenLabs API Key",
               "type": "string",
-              "value": "sk_9c1362bfe94bf7b304e6cb30abe5b787a09652447f999088"
+              "value": ""
             },
             {
               "id": "f5e90c05-dd24-4918-9005-4c87a4fb344d",
               "name": "Creatomate API Key",
               "type": "string",
-              "value": "ed9ebea5a0d54745b9593315b68d77ed2c97111898f627816261430620c8122c9bb9c963c8b8c4b3e166fa67f7250183"
+              "value": ""
             },
             {
               "id": "d0ebba50-5a99-4090-adcb-d18aa0b21be2",
               "name": "Creatomate Template ID",
               "type": "string",
-              "value": "72a8b355-1c73-4f24-97ec-9c8e307cb45f"
+              "value": ""
             }
           ]
         },
@@ -1269,8 +1269,8 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "openAiApi": {
-          "id": "zGh8bFd2PWq8LI0d",
-          "name": "PaloAlto Ai Research Lab"
+          "id": "z*****d",
+          "name": "****ab"
         }
       },
       "notes": "Extract the audio from video for generate the description"
@@ -1309,8 +1309,8 @@
       "waitBetweenTries": 5000,
       "credentials": {
         "openAiApi": {
-          "id": "zGh8bFd2PWq8LI0d",
-          "name": "PaloAlto Ai Research Lab"
+          "id": "z*****d",
+          "name": "P******"
         }
       },
       "notes": "Request to OpenAi for generate description with the audio extracted from the video"
@@ -1405,8 +1405,8 @@
       "typeVersion": 4.2,
       "credentials": {
         "httpHeaderAuth": {
-          "id": "OMv8h9Wh1PKd3if5",
-          "name": "PaloAlto Ai Research Lab Heygen"
+          "id": "",
+          "name": "Pn"
         }
       },
       "notes": "Generate in upload-post.com the token and add to the credentials in the header-> Authorization: Apikey (token here)"
@@ -1635,8 +1635,8 @@
       "typeVersion": 1.8,
       "credentials": {
         "openAiApi": {
-          "id": "zGh8bFd2PWq8LI0d",
-          "name": "PaloAlto Ai Research Lab"
+          "id": "***",
+          "name": "P*b"
         }
       }
     },
@@ -1650,10 +1650,10 @@
         },
         "folderId": {
           "__rl": true,
-          "value": "16uYmberwMc6JyNbNOBR6pe0LTHP6T_Dm",
+          "value": "*****",
           "mode": "list",
-          "cachedResultName": "Карты Таро",
-          "cachedResultUrl": "https://drive.google.com/drive/folders/16uYmberwMc6JyNbNOBR6pe0LTHP6T_Dm"
+          "cachedResultName": "*****",
+          "cachedResultUrl": "https://drive.google.com/drive/foldersyour foldet"
         },
         "options": {}
       },
@@ -1667,8 +1667,8 @@
       "name": "Upload file",
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "pq13hELytaD8ODhz",
-          "name": "Google Drive Korvin"
+          "id": "",
+          "name": "Google Drive"
         }
       }
     },
@@ -1683,10 +1683,10 @@
         },
         "folderId": {
           "__rl": true,
-          "value": "16uYmberwMc6JyNbNOBR6pe0LTHP6T_Dm",
+          "value": "1**m",
           "mode": "list",
-          "cachedResultName": "Карты Таро",
-          "cachedResultUrl": "https://drive.google.com/drive/folders/16uYmberwMc6JyNbNOBR6pe0LTHP6T_Dm"
+          "cachedResultName": "*****",
+          "cachedResultUrl": "https://drive.google.com/drive/folders/16uYyour folder"
         },
         "options": {}
       },
@@ -1700,8 +1700,8 @@
       "name": "Upload file1",
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "pq13hELytaD8ODhz",
-          "name": "Google Drive Korvin"
+          "id": "pz",
+          "name": "Google Drive"
         }
       }
     }
@@ -2190,11 +2190,11 @@
   },
   "active": false,
   "settings": {},
-  "versionId": "881babd7-07c6-4830-8ad7-ba726fbb7d9c",
+  "versionId": "8819c",
   "meta": {
     "templateId": "3442",
     "templateCredsSetupCompleted": true,
-    "instanceId": "eede5a0f19a88813312a63afca12c1745489ee42d3a347c580ae58112f7bc486"
+    "instanceId": "eedebc486"
   },
   "id": "HK5GmutJLhWcNb6x",
   "tags": []
